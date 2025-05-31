@@ -12,6 +12,10 @@
     "vite": "^6.0.1"
   },
   "dependencies": {
+    "@tensorflow-models/face-landmarks-detection": "^1.0.6",
+    "@tensorflow-models/facemesh": "^0.0.5",
+    "@tensorflow-models/handpose": "^0.1.0",
+    "@tensorflow/tfjs": "^4.22.0",
     "gsap": "^3.12.5",
     "locomotive-scroll": "^5.0.0-beta.21",
     "three": "^0.170.0"
